@@ -1,7 +1,6 @@
 # Konszenzus vs. információtartalom
 
 Ez a repository a motívumkeresési összehasonlító projekt környezetét készíti elő.
-A konkrét algoritmus implementációja ebben a lépésben még nincs elkezdve.
 
 ## Projektmappák
 
