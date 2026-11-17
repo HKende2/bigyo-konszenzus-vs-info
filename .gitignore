@@ -16,7 +16,7 @@ results/figures/*.jpg
 results/figures/*.svg
 results/tables/*.csv
 results/tables/*.xlsx
-reports/*.pdf
+reports/*.txt
 
 # OS/editor
 .DS_Store
